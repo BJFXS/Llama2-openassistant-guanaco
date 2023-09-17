@@ -1,0 +1,5 @@
+!pip install -q huggingface_hub
+!pip install -q -U trl transformers accelerate peft
+!pip install -q -U datasets bitsandbytes einops wandb
+!pip install  -q ipywidgets
+!pip install -q scipy
