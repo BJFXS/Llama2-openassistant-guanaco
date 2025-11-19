@@ -1,5 +1,9 @@
 # Llama2-openassistant-guanaco
-This is a fine-tuning model project aimed at enhancing the text generation capabilities of a simplified version of the Llama-2 model. Llama-2 is a powerful pre-trained language model, and the objective of fine-tuning this simplified version is to improve its performance on text generation tasks. To achieve this goal, I used a diverse dataset consisting of multiple languages and domains for training. By fine-tuning on such a diverse dataset, my aim is to enable the simplified Llama-2 model to generate high-quality text with greater accuracy and fluency, regardless of the language or domain.
+Llama2-OpenAssistant-Guanaco is a fine-tuning project designed to enhance the text-generation abilities of a simplified Llama-2 model. Llama-2 is a powerful pretrained large language model, and this project adapts it using the OpenAssistant-Guanaco dataset — a diverse, multilingual, instruction-following corpus.
+
+The goal of this fine-tuning work is to improve the model’s fluency, accuracy, and generalization across multiple domains. By training on varied dialog-style data, the resulting model becomes more aligned, more conversational, and better prepared for real-world question-answering tasks.
+
+Note: Since .ipynb files cannot be previewed on GitHub, you can download the original Notebook and open it directly in Google Colab. The .py file in this repository is a mirror of the notebook’s executable code for easier viewing.
 
 
 # Based on: 
